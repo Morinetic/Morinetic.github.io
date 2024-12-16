@@ -25,8 +25,8 @@
         }
 
         img {
-            margin: 2.5px; /* Adds space between images */
-            max-width: 25%; /* Makes images responsive */
+            margin: 4px; /* Adds space between images */
+            max-width: 50%; /* Makes images responsive */
             height: auto;
         }
 
