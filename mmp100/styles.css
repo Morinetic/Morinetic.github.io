@@ -20,13 +20,13 @@
         }
 
         .images-container {
-            text-align: center; /* Centers the images */
+            text-align: center; 
             margin-bottom: 30px;
         }
 
         img {
-            margin: 4px; /* Adds space between images */
-            max-width: 30%; /* Makes images responsive */
+            margin: 4px; 
+            max-width: 30%; 
             height: auto;
         }
 
@@ -46,17 +46,17 @@
 
 .video-container {
     position: relative;
-    padding-bottom: 56.25%; 
+    padding-bottom: 56.25%;  
     height: 0;
     overflow: hidden;
-    max-width: 50%;
+    max-width: 100%; 
+    margin-bottom: 20px; 
 }
 
 .video-container iframe {
     position: absolute;
     top: 0;
     left: 0;
-    width: 50%;
-    height: 50%;
+    width: 100%;  
+    height: 100%; 
 }
-
