@@ -20,13 +20,13 @@
         }
 
         .images-container {
-            text-align: left; /* Centers the images */
+            text-align: center; /* Centers the images */
             margin-bottom: 30px;
         }
 
         img {
             margin: 4px; /* Adds space between images */
-            max-width: 50%; /* Makes images responsive */
+            max-width: 30%; /* Makes images responsive */
             height: auto;
         }
 
